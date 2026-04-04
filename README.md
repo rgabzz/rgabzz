@@ -32,7 +32,7 @@ Desenvolvedor focado em Python | Flask | Backend | IA
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=rgabzz&theme=dark" height="180"/>
 </div>
 
 ---
