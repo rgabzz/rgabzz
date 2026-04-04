@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👨‍💻 Gabriel
 
-<!--
-**rgabzz/rgabzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor backend focado em Python e construção de projetos reais.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 17 anos
+- Estudando desenvolvimento web e IA
+- Foco em Flask e Django
+- Construindo projetos e evoluindo constantemente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Python
+- Flask
+- Django (em aprendizado)
+- HTML, CSS
+
+## 📌 Projetos em destaque
+- 🌦️ Sistema de monitoramento meteorológico
+- 🔗 APIs com Flask e Django
+
+## 📫 Contato
+- Instagram: @rgabriel.dev
+- GitHub: (você já tá aqui 😄)
+
+---
+
+💬 Sempre aberto a trocar ideias e aprender mais
