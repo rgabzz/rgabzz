@@ -39,7 +39,7 @@ Desenvolvedor focado em Python | Flask | Backend | IA
 
 ## 📫 Contato
 
-- Instagram: @rgabrieldev_
+- Instagram: @rgabriel.dev
 - GitHub: você já tá aqui 😄
 
 ---
