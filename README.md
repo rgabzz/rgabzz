@@ -14,7 +14,7 @@ Desenvolvedor focado em Python | Flask | Backend | IA
 
 ## 🧠 Sobre mim
 
-- 🎯 17 anos
+- 🎯 18 anos
 - 💻 Focado em desenvolvimento backend
 - ⚙️ Construindo projetos com Flask
 - 📚 Aprendendo Django
